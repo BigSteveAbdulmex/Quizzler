@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#Files I don't want to track:
+.metadata
+linux/
+macos/
+test/
+web/
+windows/
